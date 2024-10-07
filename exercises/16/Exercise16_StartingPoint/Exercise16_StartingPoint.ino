@@ -11,7 +11,7 @@
 
 void setup()
 {
-  int ledNumber; ; // creates an integer ledNumber
+  int ledNumber; // creates an integer ledNumber
   ledNumber = 2; // sets the value stored in ledNumber
   while (ledNumber <= 15) // this while loop will repeat fourteen times
   { // Enables pin 2 – 15 on the Arduino to Send enough power to turn on a LED
